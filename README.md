@@ -16,9 +16,8 @@ The system leverages **Agentic AI** to automate food donation and redistribution
 
 - **Donation Intake Agent** → Collects and validates food donation data from donors (via web form or chat), checks expiry, and assigns a freshness urgency score.  
 - **Matching & Allocation Agent** → Matches available food with compatible charities based on food type, storage capacity, proximity, and urgency.  
-- **Logistics & Reporting Agent (future)** → Plans optimized delivery routes and tracks donation history.
 
-Together, these agents ensure **efficient food allocation, minimal waste**, and **transparent operations** across all participants.
+Together, these agents ensure **efficient food allocation and minimal waste** across all participants.
 
 ---
 
@@ -27,7 +26,7 @@ Together, these agents ensure **efficient food allocation, minimal waste**, and 
 
 | Layer | Technologies |
 |--------|---------------|
-| **Frontend** | ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
 | **AI & Reasoning Layer** | ![LangChain](https://img.shields.io/badge/LangChain-00BFFF?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | **Backend Framework** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
