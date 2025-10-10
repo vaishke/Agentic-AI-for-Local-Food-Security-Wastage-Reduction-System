@@ -30,3 +30,5 @@ Together, these agents ensure **efficient food allocation and minimal waste** ac
 | **AI & Reasoning Layer** | ![LangChain](https://img.shields.io/badge/LangChain-00BFFF?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 
 ---
+
+Note: Only Donation Intake agent implemented as of now.
